@@ -1,0 +1,37 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3691b741-e24d-f40f-e60e-3abdb03c5fb5",
+      "8e79af17-cb4a-8412-9c14-222714327370"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Topics in Cinematic Storytelling",
+  "course_description": "This seminar explores approaches to representation for distributed cinematic storytelling. The relationship between story creation and story appreciation is analyzed. Readings are drawn from literary and cinematic criticism, as well as from descriptions of interactive, distributed works. Students analyze a range of storytelling techniques; they develop a proposal using visualization techniques; and they prototype a working story experience, culminating in a final project displayed at the end of the semester.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.845",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
